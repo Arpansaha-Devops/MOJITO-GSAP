@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { sliderLists } from '../../../Constants/index.js';
+import { sliderLists } from '../../Constants/index.js';
 import { useRef } from 'react';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';

@@ -1,4 +1,4 @@
-import { openingHours, socials } from '../../../Constants/index.js'
+import { openingHours, socials } from '../../Constants/index.js'
 import { useGSAP } from '@gsap/react'
 import { SplitText} from 'gsap/all';
 import gsap from 'gsap';

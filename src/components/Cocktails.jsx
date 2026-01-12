@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { cocktailLists, mockTailLists } from '../../../Constants/index.js'
+import { cocktailLists, mockTailLists } from '../../Constants/index.js'
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 import { motion } from 'framer-motion';

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { navLinks } from '../../../Constants';
+import { navLinks } from '../../Constants';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 import { FaShoppingCart, FaBars, FaTimes } from 'react-icons/fa';
